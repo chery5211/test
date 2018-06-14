@@ -2,6 +2,7 @@
     "name": "chery/test",
     "description": "test",
     "version": "1.0.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "师晨瑞",
