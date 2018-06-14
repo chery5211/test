@@ -1,0 +1,23 @@
+{
+    "name": "chery/test",
+    "description": "test",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "师晨瑞",
+            "email": "18435186778@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+          "Flower\\Rose\\": "src/Flower/Rose",
+          "Flower\\Lily\\": "src/Flower/Lily"
+        }
+    }
+
+}
+
